@@ -1,3 +1,5 @@
 *.jpg
 *.png
+!cat.png
+!out-cat.png
 node_modules
